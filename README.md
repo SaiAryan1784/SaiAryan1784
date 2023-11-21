@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />

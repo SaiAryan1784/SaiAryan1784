@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Aryan Goswami</h1>
 <h3 align="center">A 2nd yr undergrad from India. learning Web dev and web designing...</h3>
 
+[![An image of @saiaryan1784's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saiaryan1784)](https://holopin.io/@saiaryan1784)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiaryan1784&label=Profile%20views&color=0e75b6&style=flat" alt="saiaryan1784" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nuclear1784" target="blank"><img src="https://img.shields.io/twitter/follow/nuclear1784?logo=twitter&style=for-the-badge" alt="nuclear1784" /></a> </p>

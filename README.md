@@ -25,6 +25,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiaryan1784&" alt="saiaryan1784" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiAryan1784&theme=dracula)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAryan1784&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![An image of @saiaryan1784's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saiaryan1784)](https://holopin.io/@saiaryan1784)

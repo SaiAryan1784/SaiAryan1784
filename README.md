@@ -17,8 +17,8 @@
 
 
 
- <p align=" center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiaryan1784&show_icons=true&locale=en" alt="saiaryan1784" />
-  <a align="center" href=""><img align="center" src="https://giffiles.alphacoders.com/207/207963.gif" width="500" height="250"></img></a>
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiaryan1784&show_icons=true&locale=en" alt="saiaryan1784" />
+  <img align="center" src="https://giffiles.alphacoders.com/207/207963.gif" width="500" height="250"></img>
  </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiaryan1784&" alt="saiaryan1784" /> <img align="center" src="https://giffiles.alphacoders.com/220/220281.gif"></img></p>

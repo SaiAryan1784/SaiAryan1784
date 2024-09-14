@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Aryan Goswami</h1>
-<h3 align="center">A 2nd yr undergrad from India. learning Web dev and web designing...</h3>
+<h3 align="center">Developer, UI/UX, Badminton, Manga Reader and much more....</h3>
 
 
 

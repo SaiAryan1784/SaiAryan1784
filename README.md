@@ -21,10 +21,10 @@
   <img align="center" src="https://giffiles.alphacoders.com/207/207963.gif" width="500" height="250"></img>
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiaryan1784&" alt="saiaryan1784" /> <img align="center" src="https://giffiles.alphacoders.com/220/220281.gif"></img></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiaryan1784&" alt="saiaryan1784" /> </p>
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiAryan1784&theme=react-dark)
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiaryan1784&show_icons=true&locale=en&layout=compact" alt="saiaryan1784" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiaryan1784&show_icons=true&locale=en&layout=compact" alt="saiaryan1784" /><img align="center" src="https://giffiles.alphacoders.com/220/220281.gif"></img></p>
 
 [![An image of @saiaryan1784's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saiaryan1784)](https://holopin.io/@saiaryan1784)

@@ -34,9 +34,9 @@
 
 ## 🚀 Featured Projects
 
-- **[NETWORK MONITORING SYSTEM](https://github.com/SaiAryan1784/network-monitoring)** - Flask-based system for real-time monitoring of remote machines' resources
-- **[F1 GPT](https://f1gpt.vercel.app)** - RAG-Based Formula 1 Chatbot with 90% accuracy through verified knowledge base
-- **[PORTFOLIO](https://saiaryan.vercel.app)** - Creative personal portfolio with Next.js and TypeScript
+- **[NETWORK MONITORING SYSTEM](https://github.com/SaiAryan1784/RemoteDiagnosticTool_Python)** - Flask-based system for real-time monitoring of remote machines' resources
+- **[F1 GPT](https://f1gpt-six.vercel.app/)** - RAG-Based Formula 1 Chatbot with 90% accuracy through verified knowledge base
+- **[PORTFOLIO](https://portfolio-sai-two.vercel.app/)** - Creative personal portfolio with Next.js and TypeScript
 - **[PROFICIA](https://proficia.vercel.app)** - AI-Powered MCQ Generator using Groq API
 
 ## 💻 Tech Stack

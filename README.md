@@ -95,7 +95,7 @@
 
 ## 🌱 Experience
 
-- **Blurock Ionic** - GenAI R&D and MERN Intern (Sep 2024 - Present)
+- **Blurock Ionic** - GenAI R&D and MERN Intern (Sep 2024 - May 2025)
 - **MyCTO Innovations** - Frontend Development Intern (Sep 2023 - Aug 2024)
 
 ## 🏆 Community Involvement

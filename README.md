@@ -97,7 +97,7 @@
 
 - **Blurock Ionic** - GenAI R&D and MERN Intern (Sep 2024 - May 2025)
 - **Yutrp** - Full Stack Intern (May 2025 - Aug 2025)
-- **Sarvam.ai ** - Frontend - API Team Intern (Sep 2025 - Dec 2025)
+- **Sarvam.ai** - Frontend - API Team Intern (Sep 2025 - Dec 2025)
 
 ## 🏆 Community Involvement
 

@@ -1,125 +1,261 @@
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/220/220162.gif" width="100" height="110">
-  <h1>Sai Aryan Goswami</h1>
-  <h3>👨‍💻 Developer | 🎨 UI/UX | 🏸 Badminton | 📚 Manga Enthusiast</h3>
-  
-  <p>
-    <a href="https://linktr.ee/SaiAryanGoswami" target="_blank">
-      <img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-    </a>
-    <a href="https://www.linkedin.com/in/saiaryangoswami/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.leetcode.com/nuclear_1784" target="_blank">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-    </a>
-  </p>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        HERO BANNER                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0a0f00,70:111f00,100:1a2e00&height=230&section=header&text=SAI%20ARYAN%20GOSWAMI&fontSize=56&fontColor=E8FF47&animation=fadeIn&fontAlignY=40&desc=%E2%9A%A1%20Full-Stack%20AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=65&descSize=17&descColor=7a9a5a&stroke=E8FF47&strokeWidth=1"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiaryan1784&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiaryan1784&theme=tokyonight" alt="GitHub Streak" height="170">
+
+<!-- ANIMATED ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=E8FF47&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Shipping+AI+systems+that+actually+work+%F0%9F%A4%96;FastAPI+%2B+LLMs+%2B+React+is+my+love+language+%E2%9D%A4%EF%B8%8F;GDG+Noida+Organizer+%7C+ABES+CSE+%2726+%F0%9F%8E%93;Arch+Linux+%2B+Hyprland+%7C+Terminal-native+%F0%9F%96%A5%EF%B8%8F;Currently+obsessing+over%3A+LLM+Observability+%26+Voice+AI" alt="Typing SVG" />
+
+<br/>
+
+<!-- SOCIAL BADGES — dark bg, E8FF47 text, sharp style -->
+<a href="https://linkedin.com/in/saiaryangoswami" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E8FF47"/>
+</a>
+<a href="https://saiaryan.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=E8FF47"/>
+</a>
+<a href="https://linktr.ee/SaiAryanGoswami" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=linktree&logoColor=E8FF47"/>
+</a>
+<a href="https://www.leetcode.com/nuclear_1784" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=E8FF47"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=saiaryan1784&label=PROFILE+VIEWS&color=E8FF47&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiaryan1784&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
-  <img src="https://giffiles.alphacoders.com/220/220281.gif" width="300" height="170">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiAryan1784&theme=react-dark" width="100%">
-</div>
-
-## 🚀 Featured Projects
-
-- **[NETWORK MONITORING SYSTEM](https://github.com/SaiAryan1784/RemoteDiagnosticTool_Python)** - Flask-based system for real-time monitoring of remote machines' resources
-- **[F1 GPT](https://f1gpt-six.vercel.app/)** - RAG-Based Formula 1 Chatbot with 90% accuracy through verified knowledge base
-- **[PORTFOLIO](https://portfolio-sai-two.vercel.app/)** - Creative personal portfolio with Next.js and TypeScript
-- **[PROFICIA](https://proficia.vercel.app)** - AI-Powered MCQ Generator using Groq API
-
-## 💻 Tech Stack
-
-<div align="center">
-  
-  ### Languages
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  </p>
-  
-  ### Frontend
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
-  </p>
-  
-  ### Backend & Database
-  <p>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-    <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  </p>
-  
-  ### AI/ML Tools
-  <p>
-    <img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white">
-    <img src="https://img.shields.io/badge/Groq_API-FF5700?style=for-the-badge&logo=openai&logoColor=white">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-    <img src="https://img.shields.io/badge/ChromaDB-6B46C1?style=for-the-badge&logo=chroma&logoColor=white">
-    <img src="https://img.shields.io/badge/RAG_Pipelines-4EAA25?style=for-the-badge&logo=openai&logoColor=white">
-  </p>
-  
-  ### DevOps & Other
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  </p>
-</div>
-
-## 🌱 Experience
-
-- **Blurock Ionic** - GenAI R&D and MERN Intern (Sep 2024 - May 2025)
-- **Yutrp** - Full Stack Intern (May 2025 - Aug 2025)
-- **Sarvam.ai** - Frontend - API Team Intern (Sep 2025 - Dec 2025)
-
-## 🏆 Community Involvement
-
-- **Google Developer Group Noida** - Social Media Team (Nov 2024 - Present)
-- **CodeChef ABESEC** - Core Team Member (Aug 2023 - Present)
-
-## 🎓 Education
-
-- **ABES Engineering College, AKTU** - B.Tech in Computer Science Engineering (Data Science) (2022-2026)
-
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/207/207963.gif" width="420" height="200">
-</div>
-
-<div align="center">
-  
-  [![Holopin Badges](https://holopin.me/saiaryan1784)](https://holopin.io/@saiaryan1784)
-  
-</div>
+<br/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ⚡ `$ whoami`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```bash
+┌──(sai㉿nuclear1784)-[~]
+└─$ cat /etc/sai.conf
+
+> NAME       ::  Sai Aryan Goswami
+> ROLE       ::  Full-Stack AI Engineer
+> LOCATION   ::  NCR (Noida), India 🇮🇳
+> COLLEGE    ::  ABES EC — B.Tech CS (DS) '26
+> COMMUNITY  ::  GDG Noida — Organizer 🔥
+> SETUP      ::  Mac Mini M4 + Arch/Hyprland
+> FLAGSHIP   ::  AudioAnalyzer — AI Audio Platform
+> STATUS     ::  [ █████████░ ] Open to Roles
+
+> CURRENT MISSION:
+  ↳ Building voice AI products with LLMs
+  ↳ Shipping civic-tech apps for NCR
+  ↳ Learning in public @ GDG Noida
+  ↳ 28-week ML/DL deep-dive underway
+
+> INTERESTS:
+  ↳ LLM Observability & Langfuse
+  ↳ Agentic Workflows
+  ↳ Real-time Voice AI
+  ↳ Badminton 🏸  Manga 📚
+```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://giffiles.alphacoders.com/220/220162.gif" width="180" height="200" style="border-radius:12px"/>
+
+<br/><br/>
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=saiaryan1784&theme=dark&background=0a0a0a&ring=E8FF47&fire=E8FF47&currStreakLabel=E8FF47&sideLabels=888888&dates=555555&border=1a1a1a&stroke=E8FF47)](https://github.com/saiaryan1784)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       TECH ARSENAL                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🛠 `$ ls ./tech-arsenal/`
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiaryan1784&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c&theme=dark&perline=8)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,framermotion,figma&theme=dark&perline=8)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgresql,mongodb,prisma,redis,firebase&theme=dark&perline=8)](https://skillicons.dev)
+
+**AI / ML Stack**
+
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=8)](https://skillicons.dev)
+
+> `LangChain` · `LangGraph` · `Groq API` · `AssemblyAI` · `HuggingFace` · `ChromaDB` · `Langfuse` · `RAG Pipelines` · `Retell AI`
+
+**DevOps & Tools**
+
+[![DevOps](https://skillicons.dev/icons?i=git,github,linux,docker,vercel,postman&theme=dark&perline=8)](https://skillicons.dev)
+
 </div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📊 `$ git log --stat`
+
+<div align="center">
+
+<a href="https://github.com/saiaryan1784">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=saiaryan1784&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E8FF47&icon_color=E8FF47&text_color=cccccc&border_color=1f1f1f&hide_border=false&rank_icon=github"/>
+</a>
+<a href="https://github.com/saiaryan1784">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiaryan1784&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E8FF47&text_color=cccccc&border_color=1f1f1f&hide_border=false&langs_count=8"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saiaryan1784&theme=darkhub&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🚀 `$ cat ./projects/featured.md`
+
+<div align="center">
+
+| Project | Stack | What it does |
+|:---|:---|:---|
+| 🎙️ **[AudioAnalyzer](https://github.com/SaiAryan1784)** | FastAPI · Groq · AssemblyAI · React · Langfuse | AI-powered audio analysis with pluggable coaching frameworks (Rosenshine, SPIN, STAR), JWT auth, Razorpay payments |
+| 🛣️ **[Pothole Patrol](https://github.com/SaiAryan1784)** | React Native · Django · Firebase · PostGIS | Crowdsourced civic-tech app for NCR road damage detection with geo-tagged reports |
+| 🤖 **[F1 GPT](https://f1gpt-six.vercel.app/)** | RAG · LangChain · ChromaDB | Formula 1 chatbot with 90%+ accuracy via verified vector knowledge base |
+| ✨ **[Proficia](https://proficia.vercel.app)** | Groq API · React · FastAPI | AI-powered MCQ generator for rapid knowledge assessment |
+| 🔭 **[Network Monitor](https://github.com/SaiAryan1784/RemoteDiagnosticTool_Python)** | Flask · Python · WebSockets | Real-time remote machine resource monitoring system |
+| 🌐 **[Portfolio](https://saiaryan.in)** | Next.js · TypeScript · Framer Motion | Personal portfolio — you know the drill |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      EXPERIENCE                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 💼 `$ cat ./experience/timeline.log`
+
+```
+[2024-09 → 2025-05]  ██████████  Blurock Ionic       GenAI R&D + MERN Intern
+[2025-05 → 2025-08]  ████████    Yutrp               Full-Stack Intern
+[2025-09 → 2025-12]  ████████    Sarvam AI           Frontend + API Team Intern
+[2024-11 → present]  ████████░░  GDG Noida           Organizer & Community Leader
+[2023-08 → present]  ████████░░  CodeChef ABESEC     Core Team Member
+[2022-00 → 2026-00]  ██████████  ABES Engineering    B.Tech CSE (Data Science)
+```
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION GRAPH                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🌿 `$ git graph --all`
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiAryan1784&bg_color=0a0a0a&color=E8FF47&line=4a6a10&point=E8FF47&area=true&area_color=1a2e00&border_color=1f1f1f&hide_border=false&title_color=E8FF47"/>
+</div>
+
+<br/>
+
+<!-- SNAKE — set up the GitHub Action to generate this file -->
+<!-- Action: https://github.com/Platane/snk -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/SaiAryan1784/SaiAryan1784/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      VIBES SECTION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎌 `// currently listening / watching / reading`
+
+> *"The master has failed more times than the beginner has even tried."* 
+
+<img src="https://giffiles.alphacoders.com/207/207963.gif" width="380" height="180"/>
+
+<br/>
+
+[![Holopin Badges](https://holopin.me/saiaryan1784)](https://holopin.io/@saiaryan1784)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Let's build something that matters.
+
+<a href="mailto:saiaryangoswami@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=E8FF47"/>
+</a>
+<a href="https://linkedin.com/in/saiaryangoswami">
+  <img src="https://img.shields.io/badge/Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E8FF47"/>
+</a>
+<a href="https://saiaryan.in">
+  <img src="https://img.shields.io/badge/Visit%20Site-0a0a0a?style=for-the-badge&logo=vercel&logoColor=E8FF47"/>
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2e00,35:111f00,70:0a0f00,100:000000&height=130&section=footer&text=nuclear1784%20%E2%9A%A1&fontSize=24&fontColor=E8FF47&animation=fadeIn&fontAlignY=65"/>
